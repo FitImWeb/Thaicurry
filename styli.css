@@ -1,0 +1,110 @@
+
+body{
+    background: #b3b3b3;
+    font-size: 150%;
+    margin: 4%;
+
+}
+
+header{
+    background-color: #999999;
+    text-align: center;
+    padding: 15px;
+}
+
+section{
+    width: 30%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+}
+
+h1{
+    color: #ffffff;
+}
+
+h2{
+    background-color: #999999;
+    font-size: 30px;
+    
+} 
+
+footer{
+    background-color: #999999;
+    clear: both;
+}
+
+img{
+    width: 100px;
+}
+
+.narmor{
+    width: 300px;
+    box-sizing: border-box;
+    border: solid 10px red ;
+    border: double 5px black;
+}
+
+.thai{
+    width: 200px;
+    display: inline-block;
+}
+
+//*h1 {
+    color: black;
+    background-color: #ff1;
+    font-size: 50px;
+    font-style: italic;
+    font-family: monospace;
+    font-variant: small-caps;
+    text-align: center;
+}   
+
+nav{
+    text-align: center;
+    font-style: italic;
+    color: aliceblue;
+    display: inline-block;
+}
+
+/*h2{
+    background-color: aqua;
+    font-size: 30px;
+    display: inline-block;
+} 
+
+
+
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
+    color: #00f;
+    text-decoration: lavender;
+}
+
+details{
+    font-style: italic;
+}
+
+summary{
+    font-style: normal;
+}
+
+footer{
+    background-color: #000555;
+}
+
+p{
+    color: white;
+}
+
+.crazy{
+    color: #770;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.crazy1{
+    color: violet;
+    text-align: justify;
+} */
